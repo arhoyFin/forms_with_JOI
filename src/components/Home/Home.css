@@ -1,0 +1,9 @@
+.Home{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(122, 122, 122, 0.50);
+    padding: 2rem;
+    margin-top: 3px;
+    height: 90vh;
+}
